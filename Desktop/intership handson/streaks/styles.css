@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.streak-container {
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid #ff4500;
+    border-radius: 10px;
+    background: #ffe4c4;
+}
